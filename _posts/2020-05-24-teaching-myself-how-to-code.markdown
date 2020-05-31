@@ -8,9 +8,7 @@ After studying as a Civil Engineer and working as Project Manager for four years
 
 After looking at a variety of options, I ultimately decided on following [the OSSU curriculum](https://github.com/ossu/computer-science), a curated set of online courses that's been designed to provide essentially the same education as an undergraduate computer science degree.
 
-I haven't followed the course to the letter though - I found that my mathematical background as a civil engineer was probably enough to cover the math requirements and skipped that sections.
-
-Throughout the journey I've also added additional resources like:
+Throughout the journey I've also studied some additional resources like:
 - [Interneting is Hard](https://www.internetingishard.com/html-and-css/) - a beginner course on HTML and CSS
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - a course on topics typically not covered like Shell tools, Vim, Version Control, Profiling etc.
 - The Codecademy courses on [Java](https://www.codecademy.com/learn/learn-java) and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
