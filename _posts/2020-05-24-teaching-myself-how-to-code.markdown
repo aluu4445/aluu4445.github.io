@@ -2,7 +2,7 @@
 layout: post
 title:  "Teaching myself how to code"
 date:   2020-05-24 20:43:03 +1000
-categories: jekyll update
+categories: learning cs
 ---
 After studying as a Civil Engineer and working as Project Manager for four years, I decided late 2019 that it was time for a career change and I wanted to work in Computer Science. I started this journey of teaching myself how to code properly at the start of 2020 with the plan to work full-time and spend my spare time self-studying to the point where I could switch careers within 1-2 years.
 
