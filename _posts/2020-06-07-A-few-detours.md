@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detours"
-date:   2020-05-31 17:19:03 +1000
+date:   2020-06-07 17:19:03 +1000
 categories: learning cs
 ---
 I definitely wanted to get through this course as quickly as I could - but I was also pretty open to swapping out courses or learning extra content. I wasn't aiming for any particular job in CS so I felt having a wider set of skills was a good idea too.

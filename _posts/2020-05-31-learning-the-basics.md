@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning the Basics"
+title:  "Learning the basics"
 date:   2020-05-31 17:19:03 +1000
 categories: jekyll update
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A return to OSSU"
-date:   2020-05-31 17:19:03 +1000
+date:   2020-06-14 17:19:03 +1000
 categories: learning cs
 ---
 # Back to OSSU
