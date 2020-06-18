@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Contact
+title: about
 permalink: /about/
 ---
 
-The best way to contact me about anything is via andy.luu@live.com.au
+I have a civil engineering background and currently work as a Project Manager at [TSA Management](https://www.tsamgt.com/)
 
-I'm currently looking for any opportunities in Sydney or Seattle!
+Since 2019 I've been teaching myself how to code with the aim of working as a Software Engineer / Developer
+
+I'm interested in any opportunities so feel free to contact me [here](aluu4445@gmail.com)

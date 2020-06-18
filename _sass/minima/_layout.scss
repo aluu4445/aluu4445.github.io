@@ -40,6 +40,8 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    float:left;
+
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -55,6 +57,7 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+  }
 
     label[for="nav-trigger"] {
       display: block;
@@ -82,7 +85,6 @@
     input ~ .trigger {
       clear: both;
       display: none;
-    }
 
     input:checked ~ .trigger {
       display: block;
