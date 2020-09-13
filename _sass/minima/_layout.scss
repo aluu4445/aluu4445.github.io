@@ -262,8 +262,10 @@
 
 .row {
   display: flex;
+  flex-direction: row;
 }
 
 .column {
   flex: 50%;
+  flex-direction: column;
 }
