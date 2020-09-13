@@ -169,8 +169,6 @@ table td { border: 1px solid #e8e8e8; }
 
 .column { flex: 50%; }
 
-.column-heading h2 { size: 200px; }
-
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
 
