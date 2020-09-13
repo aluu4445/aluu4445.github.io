@@ -259,3 +259,19 @@
     }
   }
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.column-heading {
+
+  h2 {
+    size: 200px;
+  }
+ 
+}

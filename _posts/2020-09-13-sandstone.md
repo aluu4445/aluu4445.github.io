@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "sandstone"
+title:  "Sydney's sandstone"
 date:   2020-09-13 17:19:03 +1000
-categories: architecture
+categories: "architecture"
 ---
 
 As a project manager in the construction field, you encounter a lot of interesting topics that you would otherwise never know about. I've summarised some really interesting things about sandstone that I learned via a report authored by [Jasper Swann](https://www.jasperswann.com.au/stonemason/).

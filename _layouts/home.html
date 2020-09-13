@@ -9,10 +9,15 @@ layout: default
 
   {{ content }}
 
+  <div class = "row">
+
+  <div class = "column">
+  <h2 class="column-heading"><b>Learning CS</b></h2>
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in site.posts limit:1 -% }
+      {%- if post.categories contains "learning" -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -25,10 +30,40 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
+  </div>
+
+  <div class = "column">
+  <h2 class="column-heading"><b>Other Topics</b></h2>
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {%- unless post.categories contains "learning" -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endunless -%}
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+  </div>
+
+  </div>
 
 </div>

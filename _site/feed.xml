@@ -1,4 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-24T00:40:43+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">andy luu</title><subtitle></subtitle><entry><title type="html">How do I structure my Flutter code?</title><link href="http://localhost:4000/learning/cs/2020/08/23/flutter4.html" rel="alternate" type="text/html" title="How do I structure my Flutter code?" /><published>2020-08-23T17:19:03+10:00</published><updated>2020-08-23T17:19:03+10:00</updated><id>http://localhost:4000/learning/cs/2020/08/23/flutter4</id><content type="html" xml:base="http://localhost:4000/learning/cs/2020/08/23/flutter4.html">&lt;p&gt;This is Part 4 of my posts about learning Flutter. Click here for &lt;a href=&quot;https://andyluu.com/learning/cs/2020/07/19/flutter.html&quot;&gt;Part 1&lt;/a&gt;, &lt;a href=&quot;https://andyluu.com/learning/cs/2020/08/10/flutter2.html&quot;&gt;Part 2&lt;/a&gt; and &lt;a href=&quot;https://andyluu.com/learning/cs/2020/08/16/flutter3.html&quot;&gt;Part 3&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-13T23:47:12+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">andy luu</title><subtitle></subtitle><entry><title type="html">Sydney’s Sandstone</title><link href="http://localhost:4000/architecture/2020/09/13/sandstone.html" rel="alternate" type="text/html" title="Sydney's Sandstone" /><published>2020-09-13T17:19:03+10:00</published><updated>2020-09-13T17:19:03+10:00</updated><id>http://localhost:4000/architecture/2020/09/13/sandstone</id><content type="html" xml:base="http://localhost:4000/architecture/2020/09/13/sandstone.html">&lt;p&gt;As a project manager in the construction field, you encounter a lot of interesting topics that you would otherwise never know about. I’ve summarised some really interesting things about sandstone that I learned via a report authored by &lt;a href=&quot;https://www.jasperswann.com.au/stonemason/&quot;&gt;Jasper Swann&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-does-sydneys-sandstone-achieve-its-look&quot;&gt;How does Sydney’s sandstone achieve its look?&lt;/h2&gt;
+&lt;p&gt;The sandstone that you typically see on historic sandstone buildings in Sydney CBD has historically been known as &lt;a href=&quot;https://en.wikipedia.org/wiki/Sydney_sandstone&quot;&gt;Yellowblock&lt;/a&gt;. It actually comes out of the ground with a pale grey-to-white colour but develops the honey/pale-brown colour that it’s known for via an oxidation process where minerals within the stone migrate to the surface and react on exposure to the atmosphere.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-is-there-so-much-variety-in-colour&quot;&gt;Why is there so much variety in colour?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.squarespace-cdn.com/content/v1/5381e632e4b024bd858030cd/1517973793547-KC1NHVZT397IQ0398LBV/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/Hilton+Sydney-+Piles+creek+Cream+sawn+Curved+cladding+1+%284%29.jpg&quot; alt=&quot;&quot; /&gt;
+If you look at any Yellowblock sandstone in Sydney you’ll notice colour variations ranging from dark brown all the way to orange. This process depends on the process of siderite, which varies in concentration in any given party of the quarry, which leads to unpredictable levels of colouration in the sandstone. Other minerals such as manganese present in varying quantities can also contribution to the sandstone developing a darker/browner colouration.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-is-this-an-issue&quot;&gt;Why is this an issue?&lt;/h2&gt;
+&lt;p&gt;This process can occur anywhere from days and weeks to months after quarrying and can continue for years. Although stone is a natural product and some level of variety in colour/texture can always be expected, there could be substantial colour variations deviating strongly from the design intent that couldn’t be picked up at the time of installation. That said, there is already a significant level of colour variation in many existing installations through Sydney CBD and this does not detract from the colour appearance of the building as a whole.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-can-you-do-if-you-want-to-minimise-the-colour-variation&quot;&gt;What can you do if you want to minimise the colour variation?&lt;/h2&gt;
+&lt;p&gt;There are also options available to intentionally alter the surface colour of sandstone that have long been used by suppliers and stonemasons:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Acid wash with 2% Hydrochrolic Acid
+    &lt;ul&gt;
+      &lt;li&gt;This has the effect of removing any brown/grey discolouration due to manganese which leaves allows a relatively uniform golden colouration to develop&lt;/li&gt;
+      &lt;li&gt;Ideally you could allow the sandstone to all develop naturally and acid wash any significantly discoloured pieces, but the process is much easier to carry out at installation when scaffolding is available&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Application of a chemical colouring agent
+    &lt;ul&gt;
+      &lt;li&gt;This has the effect of causing a permanent golden colouration of the surface of the sandstone and is used to add colour to stones that have failed to self-oxidise&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">As a project manager in the construction field, you encounter a lot of interesting topics that you would otherwise never know about. I’ve summarised some really interesting things about sandstone that I learned via a report authored by Jasper Swann.</summary></entry><entry><title type="html">CS Fundamentals</title><link href="http://localhost:4000/learning/cs/2020/09/06/csfundamentals.html" rel="alternate" type="text/html" title="CS Fundamentals" /><published>2020-09-06T17:19:03+10:00</published><updated>2020-09-06T17:19:03+10:00</updated><id>http://localhost:4000/learning/cs/2020/09/06/csfundamentals</id><content type="html" xml:base="http://localhost:4000/learning/cs/2020/09/06/csfundamentals.html">&lt;p&gt;I had my first CS interview (albeit on a smaller scale) the other day and I think I let myself down. I probably should’ve spent more time studying CS fundamentals and less time studying networking or &lt;a href=&quot;https://andyluu.com/learning/cs/2020/08/30/understandingRPL.html&quot;&gt;RPL&lt;/a&gt;. In hindsight it’s definitely something that I should understand well before going into any CS interview. The key areas that I needed to work on further were:&lt;/p&gt;
+
+&lt;h2 id=&quot;1-sorting&quot;&gt;1. Sorting&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;The different sorting algorithms had appeared in multiple different courses that I had done, but there were a few gaps in my knowledge:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Quicksort&lt;/strong&gt;: 
+  I’d watched a lecture about quicksort, but my recollection boiled down to “partition the array into smaller sub-arrays that get recursively sorted” (why is it even called quicksort? what if someone finds a quicker sorting algorithm one day? why not call it something more descriptive like pivotsort or partitionsort?). After watching a &lt;a href=&quot;https://www.youtube.com/watch?v=XE4VP_8Y0BU&amp;amp;t=1s&quot;&gt;few&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=Hoixgm4-P4M&quot;&gt;YouTube&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=x2LEyLvW0Lw&quot;&gt;explanations&lt;/a&gt; I wrote up an implementation in Python which hopefully solidifies quicksort in my mind.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Why use one sorting algorithm over another?&lt;/strong&gt;: At the very least the name is a good reminder that quicksort is on average faster than mergesort, but I didn’t know why. &lt;strong&gt;Short answer&lt;/strong&gt;: The constant factors of nlogn are smaller. &lt;strong&gt;Long answer:&lt;/strong&gt; &lt;a href=&quot;https://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice&quot;&gt;probably not worth remembering.&lt;/a&gt;. I remembered that insertion sort is better than mergesort / quicksort for small n, but forgot what situations bubble sort is useful in (when the array is mostly sorted already)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-time-and-space-complexity&quot;&gt;2. Time and Space Complexity&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;There’s some overlap with sorting here in the understanding of why one algorithm is better than another but that’s easy to remember and something I got mostly right anyway. What I need to work on here is the fundamental skill of reading some code or considering different solutions to a problem and figuring out in your head what the time and space complexity is.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think it’s something that I’m actually okay at, but during the interview I know I rarely felt 100% confident about it. To some extent I think doing heaps and heaps of Leetcode problems and evaluating the solutions will help here. A related skill that I’ve never really thought about and I think will be useful is the ability to look at a problem and come up with different solutions based on different requirements e.g. constant space.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-arrays-linked-lists-and-memory&quot;&gt;3. Arrays, Linked Lists and Memory&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andyluu.com/jekyll/update/2020/05/31/learning-the-basics.html&quot;&gt;CS50 Introduction to Computer Science&lt;/a&gt; had some great coverage of these topics in the context of C, but my time with that course was almost a year ago and definitely needed some revision. I had an okay time with remembering how fast they could get values, set values, add values etc. but I mixed them up pretty easily. It’s definitely a better idea to remember how these operations actually work at a low level and then I can determine the time complexity on my own.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All in all, I’m really glad I experienced my first CS interview in a fairly low-pressure environment. Even though I think I performed pretty poorly it was a good indication of the gaps in my knowledge and interview preparation and I’m going to be in a much better spot whenever my next CS interview is!&lt;/p&gt;</content><author><name></name></author><summary type="html">I had my first CS interview (albeit on a smaller scale) the other day and I think I let myself down. I probably should’ve spent more time studying CS fundamentals and less time studying networking or RPL. In hindsight it’s definitely something that I should understand well before going into any CS interview. The key areas that I needed to work on further were:</summary></entry><entry><title type="html">Understanding RPL</title><link href="http://localhost:4000/learning/cs/2020/08/30/understandingRPL.html" rel="alternate" type="text/html" title="Understanding RPL" /><published>2020-08-30T17:19:03+10:00</published><updated>2020-08-30T17:19:03+10:00</updated><id>http://localhost:4000/learning/cs/2020/08/30/understandingRPL</id><content type="html" xml:base="http://localhost:4000/learning/cs/2020/08/30/understandingRPL.html">&lt;p&gt;For an upcoming potential job it was suggested that I do some reading on RPL (Routing Protocol for Low-Power and Lossy Networks). Half an hour of reading later, I was still thoroughly perplexed on what all the terms or concepts even meant! Clearly it was time to do my very first networking course.&lt;/p&gt;
+
+&lt;p&gt;The OSSU curriculum includes an &lt;a href=&quot;https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG&quot;&gt;Introduction to Computer Networking&lt;/a&gt; course, which strangely links to a YouTube playlist of two guys sitting on a couch. From what I can gather the videos are from a Stanford course that was originally available but the Lagunita online learning platform was retired earlier this year. The two alternatives I saw recommended were a &lt;a href=&quot;https://www.udacity.com/course/computer-networking--ud436&quot;&gt;Georgia Tech Udacity course&lt;/a&gt; and a &lt;a href=&quot;https://www.coursera.org/learn/computer-networking&quot;&gt;Google Coursera course&lt;/a&gt;, more advanced and less advanced than the Stanford course respectively.&lt;/p&gt;
+
+&lt;p&gt;I followed both the Stanford and Coursera at first, but I found that the Coursera course had a smoother difficulty curve with more production value as well, and ultimately stayed with that one. As I had limited time, I focused on the basic topics such as the internet layer model, TCP, packet switching, encapsulation and error detection, before skipping ahead to learning about ethernet and wireless networking.&lt;/p&gt;
+
+&lt;p&gt;Equipped with my new knowledge, I returned for a second attempt at understanding RPL, which I actually found much easier this time around. Here’s my attempt at simplifying the information as much as possible:&lt;/p&gt;
+
+&lt;h2 id=&quot;acronyms&quot;&gt;Acronyms&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;DODAG - Destination Oriented Directed Acyclic Graph (has a root and no cycles)&lt;/li&gt;
+  &lt;li&gt;DIS - DODAG Information Solicitation (solicits information from other nodes)&lt;/li&gt;
+  &lt;li&gt;DIO - DODAG Information Object (information sent downstream to other nodes)&lt;/li&gt;
+  &lt;li&gt;DAO - Destination Advertistment Object (provides destination information upwards)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trickle-timer&quot;&gt;Trickle timer&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;When a node’s data does not agree with its neighbours it communicates quickly to resolve the inconsistency. When they agree, they slow communication exponentially.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;joining&quot;&gt;Joining&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;A node that wants to join a network will transmit periodic DISs&lt;/li&gt;
+  &lt;li&gt;Neighbouring nodes reset their trickle timer in response and send out DIOs more often&lt;/li&gt;
+  &lt;li&gt;Joining node receives DIOs and probes links with neighbours to select preferred parent with shortest link to the root&lt;/li&gt;
+  &lt;li&gt;Node registers itself via a DAO that is sent to the parent and forwarded until it reaches the root&lt;/li&gt;
+  &lt;li&gt;Node receives a DAO-ACK, is not part of the network and starts advertising DIOs in turn on a trickle timer&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;dag-maintenance&quot;&gt;DAG Maintenance&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nodes constantly probe neighbours to maintain updated link estimates&lt;/li&gt;
+  &lt;li&gt;Keeps preferred parent up to date e.g. if the link between a node and its parent becomes bad, the node may switch parents&lt;/li&gt;
+  &lt;li&gt;When a node finds no more suitable parents it will let its children know it’s no longer a valid parent and then leave the network after a delay&lt;/li&gt;
+  &lt;li&gt;Meanwhile it starts sending perioding DIS again hoping to discover a new usable parent&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next step: try and explain to concepts above to someone!&lt;/p&gt;</content><author><name></name></author><summary type="html">For an upcoming potential job it was suggested that I do some reading on RPL (Routing Protocol for Low-Power and Lossy Networks). Half an hour of reading later, I was still thoroughly perplexed on what all the terms or concepts even meant! Clearly it was time to do my very first networking course.</summary></entry><entry><title type="html">How do I structure my Flutter code?</title><link href="http://localhost:4000/learning/cs/2020/08/23/flutter4.html" rel="alternate" type="text/html" title="How do I structure my Flutter code?" /><published>2020-08-23T17:19:03+10:00</published><updated>2020-08-23T17:19:03+10:00</updated><id>http://localhost:4000/learning/cs/2020/08/23/flutter4</id><content type="html" xml:base="http://localhost:4000/learning/cs/2020/08/23/flutter4.html">&lt;p&gt;This is Part 4 of my posts about learning Flutter. Click here for &lt;a href=&quot;https://andyluu.com/learning/cs/2020/07/19/flutter.html&quot;&gt;Part 1&lt;/a&gt;, &lt;a href=&quot;https://andyluu.com/learning/cs/2020/08/10/flutter2.html&quot;&gt;Part 2&lt;/a&gt; and &lt;a href=&quot;https://andyluu.com/learning/cs/2020/08/16/flutter3.html&quot;&gt;Part 3&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;With the notifications and settings functionality finished, I wanted to do some cleanup of my code as well as deciding whether I wanted to implement any more features. Up to this point, I wrote all my code in one big Dart file, and while that made everything work smoothly - I felt pretty bad about my very long and very disorganised code. How do I structure my code? How do you know what deserves it’s own seperate file? What’s the correct way to refactor my code? They’re questions that have been on my mind for a while, but I’ve never had to chance to tackle because I’ve never written code at this scale before.&lt;/p&gt;
 
@@ -201,88 +293,4 @@
 
 &lt;p&gt;Completing the course doesn’t make me feel like I’m ready for interviews, but I feel like I’ve built the foundation for the rest of my study. I can’t remember how to implement a heap sort or DFS at the moment, but it’s going to be much much easier when I review that again one day.&lt;/p&gt;
 
-&lt;p&gt;DSAs weren’t something that I really thought about right up until I started working through Leetcode problems and my naive approaches weren’t quite cutting it. I’d encounter medium difficulty problems and feel like pieces of the puzzle were missing. I feel like I have most of those missing puzzle pieces now. I’m looking forward to putting some time into Leetcode seeing how much I’ve progressed - but that’ll have to wait for a future post.&lt;/p&gt;</content><author><name></name></author><summary type="html">My biggest takeaway from the Princeton Algorithms course (Part 1 and Part 2) was an appreciation for why knowledge about data structures and algorithms (DSAs) is so important to software design. An idea that the course hits on several times throughout these courses is that the choice of a faster DSA can be significantly more impactful to the performance of a progam compared to improvements in hardware or increasing the amount of computing power utilised.</summary></entry><entry><title type="html">What programming language should I learn first?</title><link href="http://localhost:4000/learning/cs/2020/07/05/language.html" rel="alternate" type="text/html" title="What programming language should I learn first?" /><published>2020-07-05T17:19:03+10:00</published><updated>2020-07-05T17:19:03+10:00</updated><id>http://localhost:4000/learning/cs/2020/07/05/language</id><content type="html" xml:base="http://localhost:4000/learning/cs/2020/07/05/language.html">&lt;p&gt;&lt;em&gt;What programming language should I learn first?&lt;/em&gt; is probably one of the first questions that pops in the head of every person thinking about learning how to code. I’ve been asked this very question from a few friends that I’ve discussed learning how to code with, and my answer is usually &lt;strong&gt;Python&lt;/strong&gt;. It’s not the first language I learned and I would still consider myself a beginner at Python, but as someone who sat on the sidelines thinking about learning how to code for years I’m happy to make that recommendation for three main reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;An easy learning curve&lt;/li&gt;
-  &lt;li&gt;Really simple and readable syntax&lt;/li&gt;
-  &lt;li&gt;A huge amount of free online resources&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Of course there’s more to consider when choosing a language, but for the average person thinking about learning how to code I think they would have the best success with Python for these reasons.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-case-for-c&quot;&gt;A case for C?&lt;/h2&gt;
-&lt;p&gt;Despite what I said above, I was so impressed by the CS50: Introduction to Computer Science course at Harvard that I’ve actually started linking &lt;a href=&quot;https://www.youtube.com/watch?v=jjqgP9dpD1k&quot;&gt;the introductory lecture&lt;/a&gt; to friends who express an interest in learning how to code. It might seem overkill to give someone with slight interest an hour long lecture to watch, but it’s such a great explanation of the basics of computer science that most people could follow.&lt;/p&gt;
-
-&lt;p&gt;The course actually starts with some brief exposure to the visual programming language Scratch (which is great for anyone completely new to programming) but starts teaching C for anyone who was able to make it past the introductory lecture. This was probably the most contentious part of the course while I was completing it, but now a few months later I can appreciate how this choice allowed the course to teach fundamental computer science comments like machine code / assembly / compilers / memory / pointers that I have not encountered in any other course.&lt;/p&gt;
-
-&lt;p&gt;The course does a great job of supporting this with the lectures, IDE, automatic grader and even Python towards the end of the course, but I could see this being a challenge for some people. I’d definitely recommend the course early in someone’s study journey but ideally after an initial foray into Python.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-about-java&quot;&gt;What about Java?&lt;/h2&gt;
-&lt;p&gt;I’ve actually decided recently that I want to put more effort into learning Java compared to Python, but I still wouldn’t recommend it as someone’s first programming language over Python. I remember my first impressions of Java being:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Why is it so much harder to write than Python?&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Why do I have to type System.out.println instead of print?&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;What on earth is private, static and void?&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These were questions I asked as someone familiar with Python, so I can imagine how confusing it would be for someone new to programming. As with any other language though, the weird syntax makes sense as you get more familiar with Java and can appreciate the advantages of explicitly declaring everything.&lt;/p&gt;
-
-&lt;p&gt;Ultimately I decided to focus on Java because the general online consensus was that there were more opportunities for Java programmers, but I will continue learning Python because how fast it can be written can make it invaluable for writing code during interviews.&lt;/p&gt;</content><author><name></name></author><summary type="html">What programming language should I learn first? is probably one of the first questions that pops in the head of every person thinking about learning how to code. I’ve been asked this very question from a few friends that I’ve discussed learning how to code with, and my answer is usually Python. It’s not the first language I learned and I would still consider myself a beginner at Python, but as someone who sat on the sidelines thinking about learning how to code for years I’m happy to make that recommendation for three main reasons:</summary></entry><entry><title type="html">Missing Semester</title><link href="http://localhost:4000/learning/cs/2020/06/28/missing-semester.html" rel="alternate" type="text/html" title="Missing Semester" /><published>2020-06-28T17:19:03+10:00</published><updated>2020-06-28T17:19:03+10:00</updated><id>http://localhost:4000/learning/cs/2020/06/28/missing-semester</id><content type="html" xml:base="http://localhost:4000/learning/cs/2020/06/28/missing-semester.html">&lt;p&gt;In May 2020 I went through the content of a course called &lt;a href=&quot;https://missing.csail.mit.edu/&quot;&gt;The Missing Semester of Your CS Education&lt;/a&gt;. As the name suggests it aims to fill in the gaps of a typical CS degree, or more specifically as the creators describe: “&lt;em&gt;There’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools”.&lt;/em&gt; Here’s the curriculum if you’re interested:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndyNotes%2FW7SMWYkbU9.png?alt=media&amp;amp;token=b7963a80-d148-4f2b-b144-e603b8940be2&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;why-did-i-decide-to-do-this-course&quot;&gt;Why did I decide to do this course?&lt;/h1&gt;
-&lt;p&gt;The OSSU curriculum is designed to emulate the content of a typical CS degree, and I felt like it also lacked coverage of the typical tools used by computer scientists. For example, I had set up a Github and used the desktop application to maintain my personal repository, but I never really understood how it worked. I found it hard to put aside time to research tools like Git, Bash or Vim and this course felt like a good opportunity to finally learn how to use these tools. It also made sense to learn more about these tools early in my study as I expected to be using them throughout my career.&lt;/p&gt;
-
-&lt;h1 id=&quot;what-was-good-about-the-course&quot;&gt;What was good about the course?&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;For the most part the course lectures were really good at introducing a tool, explaining at a high level how it works, and talking about what it’s used for and why it’s used. In particular I think the lectures on the shell, Git, Vim and Data Wrangling were the best. The lecture notes were also well written and useful for background before the lecture or a recap afterwards.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I was introduced to many tools like more advanced shell commands, shell scripts, grep, sed, awk and profilers. Even if I don’t remember the details in the future, I’m aware they exist and it’s easy to look further into how to use them&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The lectures can be watched on their own in any order without any pre-requisites so even if you’re only interested in one or two topics you can still benefit from the course lectures. I found them quite approachable even as a beginner.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;what-could-be-improved&quot;&gt;What could be improved?&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;My biggest gripe with the course was the lack of solutions to the exercises. I think being able to review the content and trying to apply it to solve problems is an extremely important part of learning and without solutions its pretty difficult to know if you’ve applied concepts correctly. It was possible to google some of the solutions or work from others but for the most part I was on my own. I do acknowledge that this is normally a course at MIT where you can ask the tutors for assistance though.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I think the course would definitely benefit from the consistency of having a single lecturer instead of dividing it between three different people. In particular I thought Jon was an amazing lecturer while it was difficult to understand Jose at times (the first few lectures had captions which helped).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I thought there was also a difference in quality between the courses although there may be some bias because I was more interested in certain tools than others. For example I found the lecture on Git very well explained and illustrated in terms of how it works and why it’s used, but the lecture on the Command-Line environment provided relatively shallow coverage of multiple loosely related tools. I can see how the main goal is to introduce the existence of these tools though, so I think more discussion about where/why they’re used would be good.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;final-thoughts&quot;&gt;Final thoughts&lt;/h1&gt;
-&lt;p&gt;Overall I really enjoyed this course and I’d recommend it to anyone also looking to learn more about the tools explored in the course. If going through the whole thing is too much to commit to, just pick the topics that you’re actually interested in learning more about!&lt;/p&gt;</content><author><name></name></author><summary type="html">In May 2020 I went through the content of a course called The Missing Semester of Your CS Education. As the name suggests it aims to fill in the gaps of a typical CS degree, or more specifically as the creators describe: “There’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools”. Here’s the curriculum if you’re interested:</summary></entry><entry><title type="html">Staying on track</title><link href="http://localhost:4000/learning/cs/2020/06/21/Staying-on-track.html" rel="alternate" type="text/html" title="Staying on track" /><published>2020-06-21T17:19:03+10:00</published><updated>2020-06-21T17:19:03+10:00</updated><id>http://localhost:4000/learning/cs/2020/06/21/Staying%20on%20track</id><content type="html" xml:base="http://localhost:4000/learning/cs/2020/06/21/Staying-on-track.html">&lt;p&gt;While I was starting my journey of teaching myself how to code, my partner also introduced me to the world of Personal Knowledge Management through tools like &lt;a href=&quot;https://www.notion.so/&quot;&gt;Notion&lt;/a&gt; and &lt;a href=&quot;https://roamresearch.com/&quot;&gt;Roam&lt;/a&gt;. In the past I had used Google Keep to track personal notes and task reminders and while its great how simple it is to use, it’s quite limited in its ability to manage any substantial amount of knowledge effectively. There’s a mountain of tools out there and different things work for different people, but I’ve been using Roam since the start of 2020 and I found it fairly easy to start using it to help me with my self-learning too.&lt;/p&gt;
-
-&lt;h1 id=&quot;planning-it-out&quot;&gt;Planning it out&lt;/h1&gt;
-&lt;p&gt;I played around with making a Kanban-style plan that factored in the course dependencies and estimated course durations but I ended up with something extremely simple: a list of months where I roughly slotted in courses in the order I wanted to do them, with checkboxes to mark my completed items. It guided my progress and was an easy way to see how I was progressing at a high level. I set it up as a Notion page since I was using Notion at the time, but it could easily be done on any platform. I was &lt;a href=&quot;https://andyluu.com/learning/cs/2020/06/07/A-few-detours.html&quot;&gt;quite flexible with adding different study material to the OSSU curriculum&lt;/a&gt; and this made it really easy to shift things around.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndyNotes%2FjDC3aFqLOH.png?alt=media&amp;amp;token=bae9d956-2f50-499a-b4df-4ed3df358568&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;tracking-your-daily-progress&quot;&gt;Tracking your daily progress&lt;/h1&gt;
-&lt;p&gt;Since I was planning to study in my spare time while working full-time, I knew that setting daily study targets and tracking my progress daily was something that I wanted to do. Luckily I had also started daily journalling on Roam! The section of my daily journal dedicated to my study varied from just quick one-liners to a few paragraphs about what I learnt. I had some rough goals of 1-2 hours on weekdays and 4-5 hours on weekends so it was easy to see for myself at the end of the day whether I was keeping up with this. For the weekends in particular I would recommend setting yourself up with a rough schedule on your calendar app (I used Google Calendar) to help you manage your tasks with the bonus of easily tracking how much time you’re spending on different tasks.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndyNotes%2FrfjHbmvDQ6.png?alt=media&amp;amp;token=25ead7d7-29d1-4a9d-9e58-ed281eb92576&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;reflecting-on-your-progress&quot;&gt;Reflecting on your progress&lt;/h1&gt;
-&lt;p&gt;It was also important for me to take a step back every now and then to ask myself questions like:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;How much progress have I made towards my goals?&lt;/li&gt;
-  &lt;li&gt;Am I working hard enough?&lt;/li&gt;
-  &lt;li&gt;Do I need to tweak my study plan?&lt;/li&gt;
-  &lt;li&gt;Is there anything I need to change?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You could set a reminder to yourself to do this every month on its own but for me it was quite easy to just incorporate this into my monthly goal reviews where I reflect how my progress towards my life goals.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAndyNotes%2FF65l7bke1N.png?alt=media&amp;amp;token=70f88d48-c436-4448-b4e4-eebbad9fe9d6&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">While I was starting my journey of teaching myself how to code, my partner also introduced me to the world of Personal Knowledge Management through tools like Notion and Roam. In the past I had used Google Keep to track personal notes and task reminders and while its great how simple it is to use, it’s quite limited in its ability to manage any substantial amount of knowledge effectively. There’s a mountain of tools out there and different things work for different people, but I’ve been using Roam since the start of 2020 and I found it fairly easy to start using it to help me with my self-learning too.</summary></entry></feed>
+&lt;p&gt;DSAs weren’t something that I really thought about right up until I started working through Leetcode problems and my naive approaches weren’t quite cutting it. I’d encounter medium difficulty problems and feel like pieces of the puzzle were missing. I feel like I have most of those missing puzzle pieces now. I’m looking forward to putting some time into Leetcode seeing how much I’ve progressed - but that’ll have to wait for a future post.&lt;/p&gt;</content><author><name></name></author><summary type="html">My biggest takeaway from the Princeton Algorithms course (Part 1 and Part 2) was an appreciation for why knowledge about data structures and algorithms (DSAs) is so important to software design. An idea that the course hits on several times throughout these courses is that the choice of a faster DSA can be significantly more impactful to the performance of a progam compared to improvements in hardware or increasing the amount of computing power utilised.</summary></entry></feed>
